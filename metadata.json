@@ -1,0 +1,6 @@
+{
+  "name": "TalentTrade – Freelance & Skill Exchange Platform",
+  "description": "A complete freelance marketplace and skill exchange platform connecting clients and freelancers through paid services and direct skill barter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1883 @@
+{
+  "users": [
+    {
+      "id": "usr_free_demo",
+      "name": "Priya Sharma",
+      "email": "freelancer@talenttrade.demo",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "FREELANCER",
+      "profileImage": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "bio": "Senior Full-Stack & Machine Learning Specialist with 6+ years of building intelligent web apps. Eager to take on challenging paid contracts or trade ML models for premium UI/UX design.",
+      "title": "Full-Stack Developer & ML Engineer",
+      "location": "Bengaluru, India",
+      "hourlyRate": 65,
+      "availability": "Available",
+      "rating": 4.9,
+      "reviewCount": 3,
+      "isSuspended": false,
+      "education": [
+        {
+          "id": "edu_1",
+          "degree": "B.Tech in Computer Science",
+          "institution": "National Institute of Technology",
+          "year": "2020"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp_1",
+          "role": "Lead ML Engineer",
+          "company": "CogniTech Solutions",
+          "duration": "2021 - Present",
+          "description": "Designed enterprise recommendation engines and fine-tuned predictive vision models."
+        },
+        {
+          "id": "exp_2",
+          "role": "Full-Stack Developer",
+          "company": "HyperScale Labs",
+          "duration": "2020 - 2021",
+          "description": "Built scalable React and Node.js microservices with 99.9% uptime."
+        }
+      ],
+      "certifications": [
+        "AWS Certified Machine Learning Specialist",
+        "TensorFlow Developer Certificate"
+      ],
+      "skills": [
+        {
+          "id": "sk_1",
+          "name": "Python",
+          "category": "Programming",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_2",
+          "name": "Machine Learning",
+          "category": "Artificial Intelligence",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_3",
+          "name": "React",
+          "category": "Web Development",
+          "level": "Advanced"
+        },
+        {
+          "id": "sk_4",
+          "name": "Data Science",
+          "category": "Data & Analytics",
+          "level": "Advanced"
+        }
+      ],
+      "portfolio": [
+        {
+          "id": "port_1",
+          "title": "Automated Invoice Extraction Engine",
+          "description": "Deep-learning OCR pipeline parsing invoices with 99.4% accuracy.",
+          "skills": [
+            "Python",
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "completedAt": "2025-11-15"
+        },
+        {
+          "id": "port_2",
+          "title": "Real-Time Financial Analytics Dashboard",
+          "description": "High-throughput stock screener with streaming WebSocket charts.",
+          "skills": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "completedAt": "2026-02-10"
+        }
+      ],
+      "createdAt": "2025-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "usr_client_demo",
+      "name": "Marcus Vance",
+      "email": "client@talenttrade.demo",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "CLIENT",
+      "profileImage": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "bio": "Product Strategist & Founder at Apex Ventures. We build modern digital products and constantly collaborate with talented engineers and designers worldwide. Open to skill swaps for brand strategy!",
+      "title": "Founder & Head of Product",
+      "location": "San Francisco, CA",
+      "availability": "Available",
+      "rating": 5,
+      "reviewCount": 14,
+      "isSuspended": false,
+      "education": [
+        {
+          "id": "edu_c1",
+          "degree": "B.S. in Product Design & Business",
+          "institution": "Stanford University",
+          "year": "2018"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp_c1",
+          "role": "Founder",
+          "company": "Apex Digital Products",
+          "duration": "2022 - Present",
+          "description": "Leading venture studios bringing early-stage SaaS from 0 to 1."
+        }
+      ],
+      "certifications": [
+        "Certified Scrum Product Owner (CSPO)"
+      ],
+      "skills": [
+        {
+          "id": "sk_c1",
+          "name": "Digital Marketing",
+          "category": "Marketing",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_c2",
+          "name": "Graphic Design",
+          "category": "Design",
+          "level": "Advanced"
+        },
+        {
+          "id": "sk_c3",
+          "name": "Content Writing",
+          "category": "Content",
+          "level": "Advanced"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-01-12T14:30:00.000Z"
+    },
+    {
+      "id": "usr_admin_demo",
+      "name": "System Admin",
+      "email": "admin@talenttrade.demo",
+      "passwordHash": "$2b$10$g8ds9xhQnv6urog6UUL4t.H/m3S/HmtdpIhIReZXVDDkeLbAG1/E6",
+      "role": "ADMIN",
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "bio": "Head of Platform Moderation & Quality Assurance at TalentTrade.",
+      "title": "Platform Administrator",
+      "location": "Global Operations",
+      "availability": "Available",
+      "rating": 5,
+      "reviewCount": 0,
+      "isSuspended": false,
+      "education": [],
+      "experience": [],
+      "certifications": [],
+      "skills": [],
+      "portfolio": [],
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "usr_free_alex",
+      "name": "Alex Chen",
+      "email": "alex.chen@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "FREELANCER",
+      "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "bio": "Frontend Architect & UI Motion Designer. I turn complex logic into buttery smooth interfaces. Willing to exchange React/TypeScript work for SEO and Content Writing.",
+      "title": "Senior Frontend Developer & UI Designer",
+      "location": "Vancouver, Canada",
+      "hourlyRate": 70,
+      "availability": "Available",
+      "rating": 4.95,
+      "reviewCount": 32,
+      "isSuspended": false,
+      "education": [
+        {
+          "id": "edu_a1",
+          "degree": "B.Sc. in Interactive Arts & Technology",
+          "institution": "Simon Fraser University",
+          "year": "2019"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp_a1",
+          "role": "Staff UI Engineer",
+          "company": "PixelCraft Studio",
+          "duration": "2021 - 2025",
+          "description": "Architected design systems and responsive component libraries."
+        }
+      ],
+      "certifications": [
+        "Google UX Design Professional"
+      ],
+      "skills": [
+        {
+          "id": "sk_a1",
+          "name": "React",
+          "category": "Web Development",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_a2",
+          "name": "Web Development",
+          "category": "Web Development",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_a3",
+          "name": "Graphic Design",
+          "category": "Design",
+          "level": "Advanced"
+        }
+      ],
+      "portfolio": [
+        {
+          "id": "port_a1",
+          "title": "Design System for FinTech App",
+          "description": "A comprehensive tokenized design system with 60+ modular components.",
+          "skills": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+          ],
+          "completedAt": "2025-10-04"
+        }
+      ],
+      "createdAt": "2025-01-15T09:00:00.000Z"
+    },
+    {
+      "id": "usr_free_carlos",
+      "name": "Carlos Rivera",
+      "email": "carlos.rivera@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "FREELANCER",
+      "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "bio": "Enterprise Java & Spring Boot engineer. 8+ years architecting high-scale backend microservices, distributed caching, and transactional safety.",
+      "title": "Backend Engineer & Systems Architect",
+      "location": "Madrid, Spain",
+      "hourlyRate": 75,
+      "availability": "Busy",
+      "rating": 4.88,
+      "reviewCount": 19,
+      "isSuspended": false,
+      "education": [
+        {
+          "id": "edu_cr1",
+          "degree": "M.S. in Software Systems",
+          "institution": "Universidad Politécnica de Madrid",
+          "year": "2017"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp_cr1",
+          "role": "Senior Java Architect",
+          "company": "Iberia Telecom",
+          "duration": "2019 - Present",
+          "description": "Engineered high-throughput payment processing pipelines handling 50k req/sec."
+        }
+      ],
+      "certifications": [
+        "Oracle Certified Professional: Java SE 17 Developer"
+      ],
+      "skills": [
+        {
+          "id": "sk_cr1",
+          "name": "Java",
+          "category": "Backend Development",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_cr2",
+          "name": "Web Development",
+          "category": "Backend Development",
+          "level": "Advanced"
+        },
+        {
+          "id": "sk_cr3",
+          "name": "Python",
+          "category": "Programming",
+          "level": "Intermediate"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-01-20T11:15:00.000Z"
+    },
+    {
+      "id": "usr_free_elena",
+      "name": "Elena Rostova",
+      "email": "elena.rostova@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "FREELANCER",
+      "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "bio": "Creative Video Editor & Motion Graphics Animator. Specialized in high-impact product launches, commercial video ads, and YouTube documentary editing.",
+      "title": "Motion Designer & Video Producer",
+      "location": "Berlin, Germany",
+      "hourlyRate": 55,
+      "availability": "Available",
+      "rating": 4.92,
+      "reviewCount": 22,
+      "isSuspended": false,
+      "education": [
+        {
+          "id": "edu_el1",
+          "degree": "B.A. in Visual Media & Film",
+          "institution": "Film University Babelsberg",
+          "year": "2021"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp_el1",
+          "role": "Lead Video Producer",
+          "company": "Verve Studio",
+          "duration": "2022 - 2025",
+          "description": "Produced 120+ viral product videos and brand commercials."
+        }
+      ],
+      "certifications": [
+        "Adobe Premiere Pro Certified Expert"
+      ],
+      "skills": [
+        {
+          "id": "sk_el1",
+          "name": "Video Editing",
+          "category": "Creative Media",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_el2",
+          "name": "Graphic Design",
+          "category": "Design",
+          "level": "Advanced"
+        },
+        {
+          "id": "sk_el3",
+          "name": "Digital Marketing",
+          "category": "Marketing",
+          "level": "Intermediate"
+        }
+      ],
+      "portfolio": [
+        {
+          "id": "port_el1",
+          "title": "SaaS Launch Commercial 3D Motion Reel",
+          "description": "Dynamic 60-second 3D promotional reel with kinetic typography.",
+          "skills": [
+            "Video Editing",
+            "Motion Graphics",
+            "Sound Design"
+          ],
+          "completedAt": "2026-01-18"
+        }
+      ],
+      "createdAt": "2025-02-01T16:40:00.000Z"
+    },
+    {
+      "id": "usr_free_aisha",
+      "name": "Aisha Patel",
+      "email": "aisha.patel@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "FREELANCER",
+      "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+      "bio": "Data Scientist & Statistical Analyst. Transforming raw unstructured datasets into actionable business narratives and predictive machine learning models.",
+      "title": "Data Scientist & AI Researcher",
+      "location": "London, UK",
+      "hourlyRate": 80,
+      "availability": "Available",
+      "rating": 4.96,
+      "reviewCount": 35,
+      "isSuspended": false,
+      "education": [
+        {
+          "id": "edu_ai1",
+          "degree": "M.Sc. in Data Science",
+          "institution": "University College London",
+          "year": "2020"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp_ai1",
+          "role": "Senior Data Scientist",
+          "company": "Quant Insight",
+          "duration": "2020 - Present",
+          "description": "Built predictive customer lifetime models and churn forecasting algorithms."
+        }
+      ],
+      "certifications": [
+        "Databricks Certified Data Scientist Associate"
+      ],
+      "skills": [
+        {
+          "id": "sk_ai1",
+          "name": "Data Science",
+          "category": "Data & Analytics",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_ai2",
+          "name": "Python",
+          "category": "Programming",
+          "level": "Expert"
+        },
+        {
+          "id": "sk_ai3",
+          "name": "Machine Learning",
+          "category": "Artificial Intelligence",
+          "level": "Advanced"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-02-05T12:00:00.000Z"
+    },
+    {
+      "id": "usr_client_sophia",
+      "name": "Sophia Loren",
+      "email": "sophia.loren@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "CLIENT",
+      "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "bio": "Head of Growth at Horizon AI. Always seeking sharp copywriters and digital marketing strategists.",
+      "title": "VP of Growth",
+      "location": "New York, NY",
+      "availability": "Available",
+      "rating": 4.9,
+      "reviewCount": 11,
+      "isSuspended": false,
+      "education": [],
+      "experience": [],
+      "certifications": [],
+      "skills": [
+        {
+          "id": "sk_cs1",
+          "name": "Digital Marketing",
+          "category": "Marketing",
+          "level": "Expert"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-02-10T10:00:00.000Z"
+    },
+    {
+      "id": "usr_client_david",
+      "name": "David Kim",
+      "email": "david.kim@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "CLIENT",
+      "profileImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+      "bio": "CTO at Lumina Health. Commissioning healthcare AI models and HIPAA-compliant React apps.",
+      "title": "CTO & Co-Founder",
+      "location": "Austin, TX",
+      "availability": "Available",
+      "rating": 5,
+      "reviewCount": 9,
+      "isSuspended": false,
+      "education": [],
+      "experience": [],
+      "certifications": [],
+      "skills": [
+        {
+          "id": "sk_cd1",
+          "name": "Python",
+          "category": "Programming",
+          "level": "Intermediate"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-02-12T14:00:00.000Z"
+    },
+    {
+      "id": "usr_client_olivia",
+      "name": "Olivia Taylor",
+      "email": "olivia.taylor@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "CLIENT",
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "bio": "Creative Director at Studio Bloom. We produce global branding and love trading visual direction for web dev.",
+      "title": "Creative Brand Director",
+      "location": "Melbourne, Australia",
+      "availability": "Available",
+      "rating": 4.85,
+      "reviewCount": 16,
+      "isSuspended": false,
+      "education": [],
+      "experience": [],
+      "certifications": [],
+      "skills": [
+        {
+          "id": "sk_co1",
+          "name": "Graphic Design",
+          "category": "Design",
+          "level": "Expert"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-02-14T08:30:00.000Z"
+    },
+    {
+      "id": "usr_client_vikram",
+      "name": "Vikram Mehta",
+      "email": "vikram.mehta@example.com",
+      "passwordHash": "$2b$10$zeXsV4DkjX8ig.j2EQgV/ey9ENhcVzihZiLAeickzpzm2xTp3y70i",
+      "role": "CLIENT",
+      "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+      "bio": "Managing Director at FinSecure. Sponsoring enterprise audit and Java modernization projects.",
+      "title": "Director of Technology",
+      "location": "Singapore",
+      "availability": "Available",
+      "rating": 4.95,
+      "reviewCount": 8,
+      "isSuspended": false,
+      "education": [],
+      "experience": [],
+      "certifications": [],
+      "skills": [
+        {
+          "id": "sk_cv1",
+          "name": "Java",
+          "category": "Backend",
+          "level": "Advanced"
+        }
+      ],
+      "portfolio": [],
+      "createdAt": "2025-02-18T10:20:00.000Z"
+    },
+    {
+      "id": "usr_1791306234615_bmrq",
+      "name": "Test User",
+      "email": "test@example.com",
+      "passwordHash": "$2b$10$GAgRWttLuVFvnywht21qi.nZYO6XsYKqMyESzRGOkgG4eqdZB5tEa",
+      "role": "CLIENT",
+      "profileImage": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "bio": "",
+      "location": "",
+      "title": "Project Sponsor",
+      "education": [],
+      "experience": [],
+      "certifications": [],
+      "skills": [],
+      "portfolio": [],
+      "availability": "Available",
+      "rating": 5,
+      "reviewCount": 0,
+      "isSuspended": false,
+      "createdAt": "2026-10-06T17:03:54.720Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv_1",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "title": "Machine Learning Model Development & Scikit-learn Pipeline",
+      "description": "Production-ready supervised & unsupervised ML models with hyperparameter tuning, cross-validation, and REST API deployment in Python Flask/FastAPI.",
+      "category": "Artificial Intelligence",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "price": 5000,
+      "deliveryTimeDays": 7,
+      "sampleWorkUrls": [
+        "https://github.com/example/ml-pipeline-demo"
+      ],
+      "portfolio": [
+        "Fraud Detection Classifier",
+        "Customer Segmentation Model"
+      ],
+      "availability": "Available (10 hrs/week)",
+      "status": "PUBLISHED",
+      "views": 342,
+      "ordersCount": 16,
+      "createdAt": "2025-02-01T10:00:00.000Z"
+    },
+    {
+      "id": "srv_2",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "title": "Full-Stack React & Node.js Scalable Web Application",
+      "description": "End-to-end modern web applications built with TypeScript, React 19, Tailwind CSS, Express, and JWT authentication.",
+      "category": "Web Development",
+      "skills": [
+        "React",
+        "Web Development",
+        "Python"
+      ],
+      "price": 8500,
+      "deliveryTimeDays": 10,
+      "sampleWorkUrls": [
+        "https://github.com/example/react-fullstack"
+      ],
+      "portfolio": [
+        "SaaS Analytics Portal",
+        "E-Commerce Admin Console"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 520,
+      "ordersCount": 12,
+      "createdAt": "2025-02-03T11:00:00.000Z"
+    },
+    {
+      "id": "srv_3",
+      "freelancerId": "usr_free_alex",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.95,
+      "title": "High-Performance React Dashboard with Tailwind & Motion",
+      "description": "Architecting ultra-responsive enterprise dashboards with smooth animations, custom charts, and accessible zero-pill design systems.",
+      "category": "Web Development",
+      "skills": [
+        "React",
+        "Web Development",
+        "Graphic Design"
+      ],
+      "price": 6000,
+      "deliveryTimeDays": 5,
+      "sampleWorkUrls": [
+        "https://github.com/example/motion-dashboard"
+      ],
+      "portfolio": [
+        "Crypto Trading Terminal UI",
+        "Healthcare Monitoring Portal"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 480,
+      "ordersCount": 21,
+      "createdAt": "2025-02-05T09:30:00.000Z"
+    },
+    {
+      "id": "srv_4",
+      "freelancerId": "usr_free_carlos",
+      "freelancerName": "Carlos Rivera",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.88,
+      "title": "Enterprise Java Spring Boot Microservice Architecture",
+      "description": "Robust backend microservices with Redis caching, PostgreSQL persistence, Docker containerization, and JUnit 5 test coverage.",
+      "category": "Web Development",
+      "skills": [
+        "Java",
+        "Web Development"
+      ],
+      "price": 9000,
+      "deliveryTimeDays": 12,
+      "sampleWorkUrls": [
+        "https://github.com/example/spring-microservices"
+      ],
+      "portfolio": [
+        "Banking Payment Switch",
+        "Order Processing Engine"
+      ],
+      "availability": "Busy (Next slot in 5 days)",
+      "status": "PUBLISHED",
+      "views": 310,
+      "ordersCount": 15,
+      "createdAt": "2025-02-07T14:15:00.000Z"
+    },
+    {
+      "id": "srv_5",
+      "freelancerId": "usr_free_elena",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.92,
+      "title": "Commercial Product Video Editing & Kinetic Motion Graphics",
+      "description": "Broadcast-quality 4K video editing, color grading in DaVinci Resolve, dynamic sound design, and custom 3D title animations for SaaS launches.",
+      "category": "Video Editing",
+      "skills": [
+        "Video Editing",
+        "Graphic Design"
+      ],
+      "price": 4500,
+      "deliveryTimeDays": 4,
+      "sampleWorkUrls": [
+        "https://vimeo.com/example/commercial-reel"
+      ],
+      "portfolio": [
+        "Fintech Mobile App Launch Promo",
+        "Crowdfunding Video Campaign"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 630,
+      "ordersCount": 28,
+      "createdAt": "2025-02-10T12:00:00.000Z"
+    },
+    {
+      "id": "srv_6",
+      "freelancerId": "usr_free_aisha",
+      "freelancerName": "Aisha Patel",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.96,
+      "title": "Exploratory Data Analysis & Predictive Analytics with Python",
+      "description": "Comprehensive statistical modeling, interactive Streamlit dashboards, cohort analysis, and automated PDF reporting pipelines.",
+      "category": "Data Science",
+      "skills": [
+        "Data Science",
+        "Python",
+        "Machine Learning"
+      ],
+      "price": 7000,
+      "deliveryTimeDays": 6,
+      "sampleWorkUrls": [
+        "https://github.com/example/data-science-toolkit"
+      ],
+      "portfolio": [
+        "E-Commerce Conversion Forecasting",
+        "Healthcare Patient Readmission Study"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 410,
+      "ordersCount": 19,
+      "createdAt": "2025-02-12T16:20:00.000Z"
+    },
+    {
+      "id": "srv_7",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "title": "Interactive Python Data Science Tutoring & Code Review",
+      "description": "1-on-1 mentorship, code reviews, and structured curriculum on Python, Pandas, PyTorch, and clean algorithmic thinking.",
+      "category": "Artificial Intelligence",
+      "skills": [
+        "Python",
+        "Data Science"
+      ],
+      "price": 3000,
+      "deliveryTimeDays": 3,
+      "sampleWorkUrls": [
+        "https://github.com/example/python-curriculum"
+      ],
+      "portfolio": [
+        "Python Mentorship Series"
+      ],
+      "availability": "Available for Skill Exchange",
+      "status": "PUBLISHED",
+      "views": 290,
+      "ordersCount": 14,
+      "createdAt": "2025-02-14T10:00:00.000Z"
+    },
+    {
+      "id": "srv_8",
+      "freelancerId": "usr_free_alex",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.95,
+      "title": "Brand Identity Design, SVG Iconography & Figma Systems",
+      "description": "Full brand guidelines, scalable vector systems, custom logomarks, typography rules, and interactive Figma prototypes.",
+      "category": "Graphic Design",
+      "skills": [
+        "Graphic Design",
+        "Web Development"
+      ],
+      "price": 5500,
+      "deliveryTimeDays": 6,
+      "sampleWorkUrls": [
+        "https://figma.com/@alexchen"
+      ],
+      "portfolio": [
+        "Nordic Roasters Brand Identity",
+        "SaaS App Token Library"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 375,
+      "ordersCount": 18,
+      "createdAt": "2025-02-16T15:00:00.000Z"
+    },
+    {
+      "id": "srv_9",
+      "freelancerId": "usr_free_elena",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.92,
+      "title": "Short-Form TikTok, Reels & YouTube Shorts Video Batching",
+      "description": "High-retention vertical video editing with viral pacing, captions, sound effects, B-roll selection, and thumbnail creation.",
+      "category": "Video Editing",
+      "skills": [
+        "Video Editing",
+        "Digital Marketing"
+      ],
+      "price": 3500,
+      "deliveryTimeDays": 3,
+      "sampleWorkUrls": [
+        "https://tiktok.com/@example-creators"
+      ],
+      "portfolio": [
+        "30 Days Viral Shorts Campaign"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 590,
+      "ordersCount": 30,
+      "createdAt": "2025-02-18T11:45:00.000Z"
+    },
+    {
+      "id": "srv_10",
+      "freelancerId": "usr_free_carlos",
+      "freelancerName": "Carlos Rivera",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.88,
+      "title": "Database Performance Optimization & SQL Tuning (Java/Postgres)",
+      "description": "Query plan analysis, indexing strategies, connection pool sizing, and ORM query optimization to reduce latency by 60%+.",
+      "category": "Web Development",
+      "skills": [
+        "Java",
+        "Web Development"
+      ],
+      "price": 6500,
+      "deliveryTimeDays": 5,
+      "sampleWorkUrls": [
+        "https://github.com/example/db-optimizer"
+      ],
+      "portfolio": [
+        "Postgres Query Tuning Audit"
+      ],
+      "availability": "Available",
+      "status": "PUBLISHED",
+      "views": 240,
+      "ordersCount": 9,
+      "createdAt": "2025-02-20T17:00:00.000Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_1791306268398_9zsv",
+      "clientId": "usr_client_demo",
+      "clientName": "Marcus Vance",
+      "clientAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "title": "UI Design System",
+      "description": "Create design tokens & components",
+      "category": "Graphic Design",
+      "requiredSkills": [
+        "Graphic Design"
+      ],
+      "budget": 4500,
+      "deadline": "2026-11-20",
+      "mode": "PAID",
+      "status": "COMPLETED",
+      "progress": 100,
+      "tasks": [
+        {
+          "id": "task_init_1791306268411",
+          "title": "Initial Project Alignment & Kickoff",
+          "description": "Review project requirements and deliver first draft or milestone architecture.",
+          "assignedTo": "usr_free_demo",
+          "assignedToName": "Priya Sharma",
+          "deadline": "2026-11-20",
+          "status": "In Progress"
+        }
+      ],
+      "submissions": [
+        {
+          "id": "sub_1791306268427",
+          "submittedAt": "2026-10-06T17:04:28.427Z",
+          "description": "Completed Figma library with 120 components",
+          "files": [
+            {
+              "name": "DesignSystem_v1.fig",
+              "url": "#",
+              "size": "12MB"
+            }
+          ],
+          "notes": "",
+          "version": 1
+        }
+      ],
+      "attachments": [],
+      "createdAt": "2026-10-06T17:04:28.398Z",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg"
+    },
+    {
+      "id": "proj_1791306252320_jmfe",
+      "clientId": "usr_client_demo",
+      "clientName": "Marcus Vance",
+      "clientAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "title": "Mobile App MVP",
+      "description": "React Native MVP with Auth",
+      "category": "Web Development",
+      "requiredSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "budget": 6000,
+      "deadline": "2026-11-15",
+      "mode": "PAID",
+      "status": "PROPOSALS_RECEIVED",
+      "progress": 0,
+      "tasks": [],
+      "submissions": [],
+      "attachments": [],
+      "createdAt": "2026-10-06T17:04:12.320Z"
+    },
+    {
+      "id": "proj_1",
+      "clientId": "usr_client_demo",
+      "clientName": "Marcus Vance",
+      "clientAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "title": "AI Customer Churn Prediction Engine for SaaS Platform",
+      "description": "Build an end-to-end Python machine learning pipeline that predicts customer churn probabilities based on product usage telemetry, exportable to a clean REST endpoint.",
+      "category": "Artificial Intelligence",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "budget": 5000,
+      "deadline": "2026-10-15",
+      "mode": "PAID",
+      "status": "IN_PROGRESS",
+      "progress": 60,
+      "tasks": [
+        {
+          "id": "task_1",
+          "title": "Data Ingestion & Preprocessing Pipeline",
+          "description": "Clean telemetric CSV logs and handle categorical encoding.",
+          "assignedTo": "usr_free_demo",
+          "assignedToName": "Priya Sharma",
+          "deadline": "2026-10-05",
+          "status": "Completed"
+        },
+        {
+          "id": "task_2",
+          "title": "Train LightGBM & XGBoost Classifier Models",
+          "description": "Evaluate ROC-AUC curve and compute SHAP feature importance values.",
+          "assignedTo": "usr_free_demo",
+          "assignedToName": "Priya Sharma",
+          "deadline": "2026-10-10",
+          "status": "In Progress"
+        },
+        {
+          "id": "task_3",
+          "title": "Expose FastAPI Endpoint & Dockerize",
+          "description": "Deploy inference route with Swagger docs and container manifest.",
+          "assignedTo": "usr_free_demo",
+          "assignedToName": "Priya Sharma",
+          "deadline": "2026-10-14",
+          "status": "Pending"
+        }
+      ],
+      "submissions": [],
+      "attachments": [
+        {
+          "name": "churn_sample_dataset.csv",
+          "url": "#",
+          "size": "2.4 MB"
+        },
+        {
+          "name": "architecture_spec.pdf",
+          "url": "#",
+          "size": "640 KB"
+        }
+      ],
+      "createdAt": "2026-03-01T10:00:00.000Z"
+    },
+    {
+      "id": "proj_2",
+      "clientId": "usr_client_demo",
+      "clientName": "Marcus Vance",
+      "clientAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "freelancerId": "usr_free_alex",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "title": "Skill Barter: SaaS Landing Page Design for Brand Strategy Coaching",
+      "description": "Skill Exchange Project: Marcus provides 6 hours of high-level Go-To-Market brand positioning consulting in return for Alex designing and building a high-converting React landing page.",
+      "category": "Web Development",
+      "requiredSkills": [
+        "React",
+        "Graphic Design",
+        "Web Development"
+      ],
+      "budget": 0,
+      "deadline": "2026-10-20",
+      "mode": "SKILL_EXCHANGE",
+      "clientOfferedSkill": "Digital Marketing",
+      "freelancerOfferedSkill": "Graphic Design",
+      "exchangeTerms": "Marcus delivers GTM Deck & Brand Strategy session (6 hrs); Alex delivers Figma design + 3-page React prototype.",
+      "status": "EXCHANGE_IN_PROGRESS",
+      "progress": 75,
+      "tasks": [
+        {
+          "id": "task_ex1",
+          "title": "Initial Brand Strategy Workshop & Wireframes",
+          "description": "Complete 2-hour Zoom alignment and moodboard approval.",
+          "assignedTo": "usr_client_demo",
+          "assignedToName": "Marcus Vance",
+          "deadline": "2026-10-06",
+          "status": "Completed"
+        },
+        {
+          "id": "task_ex2",
+          "title": "Figma Visual System & Component Prototype",
+          "description": "Design dark-slate theme and responsive layout.",
+          "assignedTo": "usr_free_alex",
+          "assignedToName": "Alex Chen",
+          "deadline": "2026-10-12",
+          "status": "In Progress"
+        }
+      ],
+      "submissions": [],
+      "attachments": [
+        {
+          "name": "brand_positioning_brief.pdf",
+          "url": "#",
+          "size": "1.1 MB"
+        }
+      ],
+      "createdAt": "2026-03-05T12:00:00.000Z"
+    },
+    {
+      "id": "proj_3",
+      "clientId": "usr_client_sophia",
+      "clientName": "Sophia Loren",
+      "clientAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "title": "Full Redesign of FinTech iOS & Web Application Interface",
+      "description": "Looking for a senior UI/UX designer and frontend engineer to modernize our crypto-fiat settlement portal with zero clutter and high usability.",
+      "category": "Web Development",
+      "requiredSkills": [
+        "React",
+        "Graphic Design",
+        "Web Development"
+      ],
+      "budget": 7500,
+      "deadline": "2026-11-01",
+      "mode": "PAID",
+      "status": "PUBLISHED",
+      "progress": 0,
+      "tasks": [],
+      "submissions": [],
+      "attachments": [
+        {
+          "name": "current_app_wireframe.png",
+          "url": "#",
+          "size": "820 KB"
+        }
+      ],
+      "createdAt": "2026-03-10T14:30:00.000Z"
+    },
+    {
+      "id": "proj_4",
+      "clientId": "usr_client_david",
+      "clientName": "David Kim",
+      "clientAvatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "title": "Healthcare Patient Triage NLP Model",
+      "description": "Classify patient clinical notes into severity tiers using transformer-based sentiment and clinical entity extraction.",
+      "category": "Artificial Intelligence",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "budget": 9000,
+      "deadline": "2026-09-28",
+      "mode": "PAID",
+      "status": "SUBMITTED",
+      "progress": 90,
+      "tasks": [
+        {
+          "id": "task_h1",
+          "title": "HIPAA De-identification Pipeline",
+          "description": "Scrub medical notes of protected personal health identifiers.",
+          "assignedTo": "usr_free_demo",
+          "assignedToName": "Priya Sharma",
+          "deadline": "2026-09-15",
+          "status": "Completed"
+        },
+        {
+          "id": "task_h2",
+          "title": "Transformer Classification Benchmarks",
+          "description": "Evaluate BioBERT vs clinical RoBERTa on validation set.",
+          "assignedTo": "usr_free_demo",
+          "assignedToName": "Priya Sharma",
+          "deadline": "2026-09-22",
+          "status": "Completed"
+        }
+      ],
+      "submissions": [
+        {
+          "id": "sub_1",
+          "submittedAt": "2026-09-27T18:00:00.000Z",
+          "description": "Completed model training with 94.8% F1-score across 4 urgency tiers. Docker container with FastAPI endpoints attached.",
+          "files": [
+            {
+              "name": "clinical_nlp_v1_model.zip",
+              "url": "#",
+              "size": "14.2 MB"
+            },
+            {
+              "name": "evaluation_metrics_report.pdf",
+              "url": "#",
+              "size": "2.1 MB"
+            }
+          ],
+          "notes": "Tested on 10,000 synthetic patient narratives without latency regressions.",
+          "version": 1
+        }
+      ],
+      "attachments": [],
+      "createdAt": "2026-02-15T08:00:00.000Z"
+    },
+    {
+      "id": "proj_5",
+      "clientId": "usr_client_olivia",
+      "clientName": "Olivia Taylor",
+      "clientAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "freelancerId": "usr_free_elena",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "title": "Spring Fashion Brand Launch Teaser Video Reel",
+      "description": "Dynamic 30-second editorial motion video for our upcoming sustainable apparel collection.",
+      "category": "Video Editing",
+      "requiredSkills": [
+        "Video Editing",
+        "Graphic Design"
+      ],
+      "budget": 4000,
+      "deadline": "2026-02-25",
+      "mode": "PAID",
+      "status": "COMPLETED",
+      "progress": 100,
+      "tasks": [
+        {
+          "id": "task_f1",
+          "title": "Rough Cut & Music Sync",
+          "description": "Sync footage with custom electronic soundtrack.",
+          "assignedTo": "usr_free_elena",
+          "assignedToName": "Elena Rostova",
+          "deadline": "2026-02-20",
+          "status": "Completed"
+        },
+        {
+          "id": "task_f2",
+          "title": "Color Grading & Final Master Export",
+          "description": "Apply warm cinematic film emulation LUT.",
+          "assignedTo": "usr_free_elena",
+          "assignedToName": "Elena Rostova",
+          "deadline": "2026-02-24",
+          "status": "Completed"
+        }
+      ],
+      "submissions": [
+        {
+          "id": "sub_2",
+          "submittedAt": "2026-02-24T14:00:00.000Z",
+          "description": "Final 4K ProRes 422 video file + H.264 web delivery cuts.",
+          "files": [
+            {
+              "name": "spring_launch_master_4k.mov",
+              "url": "#",
+              "size": "280 MB"
+            }
+          ],
+          "notes": "Client accepted without revision.",
+          "version": 1
+        }
+      ],
+      "attachments": [],
+      "createdAt": "2026-02-10T10:00:00.000Z"
+    }
+  ],
+  "proposals": [
+    {
+      "id": "prop_1791306268404_zpzu",
+      "projectId": "proj_1791306268398_9zsv",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "coverLetter": "Ready to deliver high quality Figma system.",
+      "proposedPrice": 4500,
+      "deliveryTimeDays": 5,
+      "relevantSkills": [
+        "Graphic Design"
+      ],
+      "portfolioLinks": [],
+      "status": "ACCEPTED",
+      "createdAt": "2026-10-06T17:04:28.404Z"
+    },
+    {
+      "id": "prop_1791306252332_ziou",
+      "projectId": "proj_1791306252320_jmfe",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "coverLetter": "I have 5 years building React Native apps.",
+      "proposedPrice": 5500,
+      "deliveryTimeDays": 7,
+      "relevantSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "portfolioLinks": [],
+      "status": "PENDING",
+      "createdAt": "2026-10-06T17:04:12.332Z"
+    },
+    {
+      "id": "prop_1",
+      "projectId": "proj_3",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "coverLetter": "Hi Sophia! I have built several responsive trading and fintech portals using React 19, TypeScript, and Tailwind CSS. I would love to redesign your interface with strict typography, high-contrast states, and micro-interactions.",
+      "proposedPrice": 7200,
+      "deliveryTimeDays": 14,
+      "relevantSkills": [
+        "React",
+        "Web Development",
+        "Graphic Design"
+      ],
+      "portfolioLinks": [
+        "https://talenttrade.demo/portfolio/fintech-dashboard"
+      ],
+      "status": "PENDING",
+      "createdAt": "2026-03-11T10:20:00.000Z"
+    },
+    {
+      "id": "prop_2",
+      "projectId": "proj_3",
+      "freelancerId": "usr_free_alex",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.95,
+      "coverLetter": "Hello Sophia, as a specialized UI motion designer, I can deliver a world-class experience with zero layout shift and intuitive financial data visualizations.",
+      "proposedPrice": 7500,
+      "deliveryTimeDays": 12,
+      "relevantSkills": [
+        "React",
+        "Graphic Design"
+      ],
+      "portfolioLinks": [
+        "https://talenttrade.demo/portfolio/crypto-terminal"
+      ],
+      "status": "PENDING",
+      "createdAt": "2026-03-11T12:45:00.000Z"
+    },
+    {
+      "id": "prop_3",
+      "projectId": "proj_1",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "coverLetter": "Hi Marcus, I specialize in production ML models. I have previously delivered a churn classifier with 92% precision for a B2B SaaS. Ready to kick off immediately.",
+      "proposedPrice": 5000,
+      "deliveryTimeDays": 14,
+      "relevantSkills": [
+        "Python",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "portfolioLinks": [
+        "https://talenttrade.demo/portfolio/ocr-pipeline"
+      ],
+      "status": "ACCEPTED",
+      "createdAt": "2026-03-01T10:30:00.000Z"
+    },
+    {
+      "id": "prop_4",
+      "projectId": "proj_4",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "freelancerRating": 4.9,
+      "coverLetter": "David, my background in biomedical NLP models makes this triage problem a natural fit. Will maintain strict data privacy throughout.",
+      "proposedPrice": 9000,
+      "deliveryTimeDays": 20,
+      "relevantSkills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "portfolioLinks": [],
+      "status": "ACCEPTED",
+      "createdAt": "2026-02-15T09:00:00.000Z"
+    },
+    {
+      "id": "prop_5",
+      "projectId": "proj_5",
+      "freelancerId": "usr_free_elena",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "freelancerRating": 4.92,
+      "coverLetter": "Olivia, fashion film editing is my core creative domain. I will provide high-end color grading and snappy pacing.",
+      "proposedPrice": 4000,
+      "deliveryTimeDays": 10,
+      "relevantSkills": [
+        "Video Editing",
+        "Graphic Design"
+      ],
+      "portfolioLinks": [],
+      "status": "ACCEPTED",
+      "createdAt": "2026-02-10T11:00:00.000Z"
+    }
+  ],
+  "exchanges": [
+    {
+      "id": "ex_1",
+      "senderId": "usr_free_demo",
+      "senderName": "Priya Sharma",
+      "senderAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "receiverId": "usr_free_alex",
+      "receiverName": "Alex Chen",
+      "receiverAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "offeredSkill": "Python",
+      "requestedSkill": "Graphic Design",
+      "description": "I can teach you Python for Data Analysis and Scikit-learn (4 comprehensive 90-min sessions) in exchange for you designing a brand book & icon kit for my open source library.",
+      "durationDays": 14,
+      "exchangeTerms": "4 hands-on 1-on-1 coding sessions vs 1 comprehensive Figma design system with SVG icons.",
+      "status": "ACCEPTED",
+      "projectId": "proj_2",
+      "createdAt": "2026-03-04T10:00:00.000Z"
+    },
+    {
+      "id": "ex_2",
+      "senderId": "usr_client_demo",
+      "senderName": "Marcus Vance",
+      "senderAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "receiverId": "usr_free_demo",
+      "receiverName": "Priya Sharma",
+      "receiverAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "offeredSkill": "Digital Marketing",
+      "requestedSkill": "Machine Learning",
+      "description": "I will craft a multi-channel inbound customer acquisition strategy for your freelance business in exchange for an introductory ML forecasting model for my venture.",
+      "durationDays": 10,
+      "exchangeTerms": "Written GTM funnel strategy document vs Scikit-learn churn script.",
+      "status": "PENDING",
+      "createdAt": "2026-03-08T15:30:00.000Z"
+    },
+    {
+      "id": "ex_3",
+      "senderId": "usr_free_elena",
+      "senderName": "Elena Rostova",
+      "senderAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "receiverId": "usr_free_demo",
+      "receiverName": "Priya Sharma",
+      "receiverAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "offeredSkill": "Video Editing",
+      "requestedSkill": "Web Development",
+      "description": "I will edit 3 high-impact promotional YouTube videos for you in exchange for you setting up a portfolio website in React and Tailwind.",
+      "durationDays": 7,
+      "exchangeTerms": "3 edited 4K videos with subtitles vs React portfolio deployed to Vercel/Vite.",
+      "status": "PENDING",
+      "createdAt": "2026-03-12T09:15:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1",
+      "projectId": "proj_1",
+      "senderId": "usr_client_demo",
+      "senderName": "Marcus Vance",
+      "senderAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "receiverId": "usr_free_demo",
+      "content": "Hi Priya! Glad to kick off this AI churn model. I uploaded our raw event dataset to the workspace attachments. Let me know if you need any schema clarifications.",
+      "timestamp": "2026-03-01T11:00:00.000Z"
+    },
+    {
+      "id": "msg_2",
+      "projectId": "proj_1",
+      "senderId": "usr_free_demo",
+      "senderName": "Priya Sharma",
+      "senderAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "receiverId": "usr_client_demo",
+      "content": "Thanks Marcus! I reviewed the dataset. It looks clean, with around 45k user records. I have already set up the exploratory notebook and began the feature engineering phase.",
+      "timestamp": "2026-03-01T14:20:00.000Z"
+    },
+    {
+      "id": "msg_3",
+      "projectId": "proj_1",
+      "senderId": "usr_free_demo",
+      "senderName": "Priya Sharma",
+      "senderAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "receiverId": "usr_client_demo",
+      "content": "Quick update: Task 1 (Data Ingestion) is marked Completed. The LightGBM classifier is currently achieving 0.89 ROC-AUC. I am fine-tuning hyperparameters now.",
+      "timestamp": "2026-03-04T16:00:00.000Z"
+    },
+    {
+      "id": "msg_4",
+      "projectId": "proj_2",
+      "senderId": "usr_free_demo",
+      "senderName": "Priya Sharma",
+      "senderAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "receiverId": "usr_free_alex",
+      "content": "Hey Alex, excited for our skill exchange! I prepared the first 2 Jupyter notebooks for our Python session tomorrow at 4 PM GMT.",
+      "timestamp": "2026-03-05T13:00:00.000Z"
+    },
+    {
+      "id": "msg_5",
+      "projectId": "proj_2",
+      "senderId": "usr_free_alex",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "receiverId": "usr_free_demo",
+      "content": "Awesome Priya! I have the wireframes ready on my end. I will share the interactive Figma link during our sync.",
+      "timestamp": "2026-03-05T15:30:00.000Z"
+    },
+    {
+      "id": "msg_1791306268419_mdnf",
+      "projectId": "proj_1791306268398_9zsv",
+      "senderId": "usr_free_demo",
+      "senderName": "Priya Sharma",
+      "senderAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "receiverId": "usr_client_demo",
+      "content": "Hello Marcus! Starting the project now.",
+      "timestamp": "2026-10-06T17:04:28.419Z"
+    },
+    {
+      "id": "msg_pay_1791306268457",
+      "projectId": "proj_1791306268398_9zsv",
+      "senderId": "usr_client_demo",
+      "senderName": "Marcus Vance",
+      "senderAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "receiverId": "usr_free_demo",
+      "content": "[Demo Payment Receipt] Released simulated payment of $4,500 via UPI (Txn: TXN_SIM_06268457). Project marked Completed!",
+      "timestamp": "2026-10-06T17:04:28.507Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev_1791306268516_uws4",
+      "projectId": "proj_1791306268398_9zsv",
+      "projectTitle": "UI Design System",
+      "reviewerId": "usr_client_demo",
+      "reviewerName": "Marcus Vance",
+      "reviewerAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_demo",
+      "rating": 5,
+      "comment": "Exceptional design and swift turnaround! Highly recommend Priya.",
+      "createdAt": "2026-10-06T17:04:28.516Z"
+    },
+    {
+      "id": "rev_1",
+      "projectId": "proj_5",
+      "projectTitle": "Spring Fashion Brand Launch Teaser Video Reel",
+      "reviewerId": "usr_client_olivia",
+      "reviewerName": "Olivia Taylor",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_elena",
+      "rating": 5,
+      "comment": "Elena is an exceptional video editor. The color grading and musical pacing brought our campaign to life. Delivered two days ahead of schedule!",
+      "createdAt": "2026-02-25T11:00:00.000Z"
+    },
+    {
+      "id": "rev_2",
+      "projectId": "proj_5",
+      "projectTitle": "Spring Fashion Brand Launch Teaser Video Reel",
+      "reviewerId": "usr_free_elena",
+      "reviewerName": "Elena Rostova",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "FREELANCER",
+      "revieweeId": "usr_client_olivia",
+      "rating": 5,
+      "comment": "Working with Olivia was a pure delight. Crystal-clear feedback, prompt responses, and prompt sign-off. Highly recommend!",
+      "createdAt": "2026-02-25T12:30:00.000Z"
+    },
+    {
+      "id": "rev_3",
+      "projectId": "proj_past_1",
+      "projectTitle": "Machine Learning Recommendation Engine for E-Commerce",
+      "reviewerId": "usr_client_demo",
+      "reviewerName": "Marcus Vance",
+      "reviewerAvatar": "/src/assets/images/avatar_client_marcus_1790830259951.jpg",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_demo",
+      "rating": 5,
+      "comment": "Priya developed an incredible recommendation algorithm that improved our CTR by 24%. Highly competent in Python, math, and production architectures.",
+      "createdAt": "2026-01-28T16:00:00.000Z"
+    },
+    {
+      "id": "rev_4",
+      "projectId": "proj_past_1",
+      "projectTitle": "Machine Learning Recommendation Engine for E-Commerce",
+      "reviewerId": "usr_free_demo",
+      "reviewerName": "Priya Sharma",
+      "reviewerAvatar": "/src/assets/images/avatar_freelancer_priya_1790830248285.jpg",
+      "reviewerRole": "FREELANCER",
+      "revieweeId": "usr_client_demo",
+      "rating": 5,
+      "comment": "Marcus is a top-tier client. Clear scope, immediate feedback, and very collaborative throughout the project.",
+      "createdAt": "2026-01-28T17:15:00.000Z"
+    },
+    {
+      "id": "rev_5",
+      "projectId": "proj_past_2",
+      "projectTitle": "Interactive React Design System & Component Library",
+      "reviewerId": "usr_client_sophia",
+      "reviewerName": "Sophia Loren",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_alex",
+      "rating": 5,
+      "comment": "Alex has great eye for detail and mastery of React. Our design engineering team was blown away by the smoothness of his animations.",
+      "createdAt": "2026-02-04T10:00:00.000Z"
+    },
+    {
+      "id": "rev_6",
+      "projectId": "proj_past_3",
+      "projectTitle": "High-Concurrency Java Microservice",
+      "reviewerId": "usr_client_vikram",
+      "reviewerName": "Vikram Mehta",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_carlos",
+      "rating": 4.8,
+      "comment": "Carlos stabilized our payment gateway under peak traffic. Thoroughly architected with comprehensive test suites.",
+      "createdAt": "2026-02-08T14:00:00.000Z"
+    },
+    {
+      "id": "rev_7",
+      "projectId": "proj_past_4",
+      "projectTitle": "Predictive Churn Model & Customer Lifetime Value",
+      "reviewerId": "usr_client_david",
+      "reviewerName": "David Kim",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_aisha",
+      "rating": 5,
+      "comment": "Aisha delivered clean, well-documented Python models with zero overhead. Her statistical insights directly saved us thousands.",
+      "createdAt": "2026-02-15T09:30:00.000Z"
+    },
+    {
+      "id": "rev_8",
+      "projectId": "proj_past_5",
+      "projectTitle": "Brand Strategy & Go-To-Market Consultation",
+      "reviewerId": "usr_free_alex",
+      "reviewerName": "Alex Chen",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "FREELANCER",
+      "revieweeId": "usr_client_demo",
+      "rating": 5,
+      "comment": "Marcus’s marketing strategy session unlocked new customer channels for my agency. The barter was worth 10x the effort.",
+      "createdAt": "2026-02-20T18:00:00.000Z"
+    },
+    {
+      "id": "rev_9",
+      "projectId": "proj_past_6",
+      "projectTitle": "Full-Stack Dashboard Deployment",
+      "reviewerId": "usr_client_olivia",
+      "reviewerName": "Olivia Taylor",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_demo",
+      "rating": 4.8,
+      "comment": "Priya resolved tricky CORS and JWT token refresh edge cases gracefully. Very dependable engineer.",
+      "createdAt": "2026-02-28T15:00:00.000Z"
+    },
+    {
+      "id": "rev_10",
+      "projectId": "proj_past_7",
+      "projectTitle": "Exploratory Data Analysis Report",
+      "reviewerId": "usr_client_sophia",
+      "reviewerName": "Sophia Loren",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "reviewerRole": "CLIENT",
+      "revieweeId": "usr_free_aisha",
+      "rating": 4.9,
+      "comment": "Super fast turnaround and beautiful visual chart deck. Aisha communicated every milestone proactively.",
+      "createdAt": "2026-03-02T13:40:00.000Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "userId": "usr_free_demo",
+      "type": "PROPOSAL",
+      "title": "Proposal Accepted",
+      "message": "Marcus Vance accepted your proposal for \"AI Customer Churn Prediction Engine\". Project Workspace created!",
+      "link": "/projects/proj_1",
+      "read": false,
+      "createdAt": "2026-03-01T10:35:00.000Z"
+    },
+    {
+      "id": "notif_2",
+      "userId": "usr_free_demo",
+      "type": "MESSAGE",
+      "title": "New Message",
+      "message": "Marcus Vance sent a message in \"AI Customer Churn Prediction Engine\"",
+      "link": "/projects/proj_1",
+      "read": false,
+      "createdAt": "2026-03-01T11:00:00.000Z"
+    },
+    {
+      "id": "notif_3",
+      "userId": "usr_free_demo",
+      "type": "EXCHANGE_REQUEST",
+      "title": "Skill Exchange Proposal",
+      "message": "Marcus Vance proposed a skill barter: Digital Marketing in exchange for Machine Learning.",
+      "link": "/skill-exchange",
+      "read": false,
+      "createdAt": "2026-03-08T15:30:00.000Z"
+    },
+    {
+      "id": "notif_4",
+      "userId": "usr_free_demo",
+      "type": "EXCHANGE_REQUEST",
+      "title": "Skill Exchange Proposal",
+      "message": "Elena Rostova proposed an exchange: Video Editing in exchange for Web Development.",
+      "link": "/skill-exchange",
+      "read": true,
+      "createdAt": "2026-03-12T09:15:00.000Z"
+    },
+    {
+      "id": "notif_5",
+      "userId": "usr_client_demo",
+      "type": "PROPOSAL",
+      "title": "New Proposal Received",
+      "message": "Priya Sharma applied to your project \"AI Customer Churn Prediction Engine\".",
+      "link": "/projects/proj_1",
+      "read": true,
+      "createdAt": "2026-03-01T10:30:00.000Z"
+    },
+    {
+      "id": "notif_6",
+      "userId": "usr_client_demo",
+      "type": "EXCHANGE_REQUEST",
+      "title": "Skill Exchange Accepted",
+      "message": "Alex Chen accepted your barter request for SaaS Landing Page Design.",
+      "link": "/projects/proj_2",
+      "read": true,
+      "createdAt": "2026-03-05T12:00:00.000Z"
+    },
+    {
+      "id": "notif_7",
+      "userId": "usr_free_demo",
+      "type": "WORK_SUBMITTED",
+      "title": "Work Under Review",
+      "message": "Your submission for \"Healthcare Patient Triage NLP Model\" is currently being evaluated by David Kim.",
+      "link": "/projects/proj_4",
+      "read": true,
+      "createdAt": "2026-09-27T18:05:00.000Z"
+    },
+    {
+      "id": "notif_8",
+      "userId": "usr_client_demo",
+      "type": "FILE_UPLOADED",
+      "title": "File Uploaded",
+      "message": "Priya Sharma attached \"churn_sample_dataset.csv\" in the project workspace.",
+      "link": "/projects/proj_1",
+      "read": true,
+      "createdAt": "2026-03-01T11:05:00.000Z"
+    },
+    {
+      "id": "notif_9",
+      "userId": "usr_free_elena",
+      "type": "PROJECT_COMPLETED",
+      "title": "Project Completed & Reviewed",
+      "message": "Olivia Taylor accepted final work and left a 5-star review for \"Spring Fashion Brand Launch\".",
+      "link": "/projects/proj_5",
+      "read": true,
+      "createdAt": "2026-02-25T11:00:00.000Z"
+    },
+    {
+      "id": "notif_10",
+      "userId": "usr_client_demo",
+      "type": "PAYMENT_RECEIVED",
+      "title": "Payment Simulated",
+      "message": "Payment simulation of $5,000 via UPI/Card holds in escrow for project \"AI Customer Churn Prediction Engine\".",
+      "link": "/projects/proj_1",
+      "read": true,
+      "createdAt": "2026-03-01T10:36:00.000Z"
+    },
+    {
+      "id": "notif_1791306234721",
+      "userId": "usr_1791306234615_bmrq",
+      "type": "MESSAGE",
+      "title": "Welcome to TalentTrade",
+      "message": "Welcome, Test User! Set up your profile to start posting projects and finding top talent.",
+      "link": "/profile",
+      "read": false,
+      "createdAt": "2026-10-06T17:03:54.721Z"
+    },
+    {
+      "id": "notif_1791306252332",
+      "userId": "usr_client_demo",
+      "type": "PROPOSAL",
+      "title": "New Proposal Received",
+      "message": "Priya Sharma submitted a proposal for \"Mobile App MVP\".",
+      "link": "/projects/proj_1791306252320_jmfe",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:12.332Z"
+    },
+    {
+      "id": "notif_1791306268404",
+      "userId": "usr_client_demo",
+      "type": "PROPOSAL",
+      "title": "New Proposal Received",
+      "message": "Priya Sharma submitted a proposal for \"UI Design System\".",
+      "link": "/projects/proj_1791306268398_9zsv",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.404Z"
+    },
+    {
+      "id": "notif_1791306268411",
+      "userId": "usr_free_demo",
+      "type": "PROPOSAL",
+      "title": "Proposal Accepted! Workspace Active",
+      "message": "Marcus Vance accepted your proposal for \"UI Design System\". Your workspace is now ready!",
+      "link": "/projects/proj_1791306268398_9zsv",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.411Z"
+    },
+    {
+      "id": "notif_1791306268419",
+      "userId": "usr_client_demo",
+      "type": "MESSAGE",
+      "title": "New message from Priya Sharma",
+      "message": "Priya Sharma sent a message in \"UI Design System\".",
+      "link": "/projects/proj_1791306268398_9zsv",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.419Z"
+    },
+    {
+      "id": "notif_1791306268427",
+      "userId": "usr_client_demo",
+      "type": "WORK_SUBMITTED",
+      "title": "Work Submitted for Review",
+      "message": "Priya Sharma submitted deliverables (v1) for \"UI Design System\". Review and accept or request revisions.",
+      "link": "/projects/proj_1791306268398_9zsv",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.427Z"
+    },
+    {
+      "id": "notif_1791306268435",
+      "userId": "usr_free_demo",
+      "type": "PROJECT_ACCEPTED",
+      "title": "Deliverables Accepted!",
+      "message": "Marcus Vance accepted your deliverables for \"UI Design System\"! Project is complete.",
+      "link": "/projects/proj_1791306268398_9zsv",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.435Z"
+    },
+    {
+      "id": "notif_1791306268507",
+      "userId": "usr_free_demo",
+      "type": "PAYMENT_RECEIVED",
+      "title": "Payment Received (Simulated)",
+      "message": "Marcus Vance released $4,500 for \"UI Design System\". Txn: TXN_SIM_06268457. Please leave a client review!",
+      "link": "/projects/proj_1791306268398_9zsv",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.507Z"
+    },
+    {
+      "id": "notif_1791306268516",
+      "userId": "usr_free_demo",
+      "type": "REVIEW_RECEIVED",
+      "title": "New Review Received!",
+      "message": "Marcus Vance left you a 5-star review: \"Exceptional design and swift turnaround! Highly re...\"",
+      "link": "/profile/usr_free_demo",
+      "read": false,
+      "createdAt": "2026-10-06T17:04:28.516Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "rep_1",
+      "reportedBy": "usr_client_demo",
+      "reportedByName": "Marcus Vance",
+      "reportedUser": "usr_free_carlos",
+      "reportedUserName": "Carlos Rivera",
+      "type": "Project Dispute",
+      "description": "Dispute regarding delayed milestone delivery on secondary database cache setup.",
+      "evidence": "Chat log screenshots and milestone logs.",
+      "status": "Under Investigation",
+      "adminResponse": "Admin reached out to both parties to set an updated timeline.",
+      "createdAt": "2026-03-02T14:00:00.000Z"
+    },
+    {
+      "id": "rep_2",
+      "reportedBy": "usr_free_demo",
+      "reportedByName": "Priya Sharma",
+      "serviceId": "srv_spam_test",
+      "type": "Inappropriate Service",
+      "description": "Reported an external bot account advertising unauthorized crypto arbitrage schemes.",
+      "evidence": "Service listing link.",
+      "status": "Resolved",
+      "adminResponse": "Listing removed and bot account permanently suspended.",
+      "createdAt": "2026-02-20T10:00:00.000Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay_1791306268457",
+      "projectId": "proj_1791306268398_9zsv",
+      "projectTitle": "UI Design System",
+      "clientId": "usr_client_demo",
+      "clientName": "Marcus Vance",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "amount": 4500,
+      "method": "UPI",
+      "transactionId": "TXN_SIM_06268457",
+      "status": "Completed",
+      "createdAt": "2026-10-06T17:04:28.457Z"
+    },
+    {
+      "id": "pay_1",
+      "projectId": "proj_5",
+      "projectTitle": "Spring Fashion Brand Launch Teaser Video Reel",
+      "clientId": "usr_client_olivia",
+      "clientName": "Olivia Taylor",
+      "freelancerId": "usr_free_elena",
+      "freelancerName": "Elena Rostova",
+      "amount": 4000,
+      "method": "Card",
+      "transactionId": "TXN_SIM_98472910",
+      "status": "Completed",
+      "createdAt": "2026-02-25T11:05:00.000Z"
+    },
+    {
+      "id": "pay_2",
+      "projectId": "proj_1",
+      "projectTitle": "AI Customer Churn Prediction Engine for SaaS Platform",
+      "clientId": "usr_client_demo",
+      "clientName": "Marcus Vance",
+      "freelancerId": "usr_free_demo",
+      "freelancerName": "Priya Sharma",
+      "amount": 5000,
+      "method": "UPI",
+      "transactionId": "TXN_SIM_44829103",
+      "status": "Completed",
+      "createdAt": "2026-03-01T10:35:00.000Z"
+    }
+  ],
+  "wishlists": [
+    {
+      "id": "wsh_1",
+      "userId": "usr_client_demo",
+      "itemType": "FREELANCER",
+      "itemId": "usr_free_demo",
+      "createdAt": "2026-02-01T12:00:00.000Z"
+    },
+    {
+      "id": "wsh_2",
+      "userId": "usr_client_demo",
+      "itemType": "SERVICE",
+      "itemId": "srv_1",
+      "createdAt": "2026-02-02T14:00:00.000Z"
+    },
+    {
+      "id": "wsh_3",
+      "userId": "usr_free_demo",
+      "itemType": "PROJECT",
+      "itemId": "proj_3",
+      "createdAt": "2026-03-10T15:00:00.000Z"
+    }
+  ]
+}
